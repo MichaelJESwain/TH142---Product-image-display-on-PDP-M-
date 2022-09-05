@@ -1,0 +1,24 @@
+.stepper-wrapper.svelte-1l6j6bt {
+    position: unset;
+    margin-top: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.keen-slider__slide {
+    margin-right: 4px;
+}
+
+.step.svelte-1l6j6bt {
+    background-color: #E5E7ED;
+}
+
+.step-active.svelte-1l6j6bt {
+    background-color: #00174F;
+}
+
+@media only screen and (max-width: 740px) {
+    .product-page__main-col_1T8JT {
+        margin-bottom: 20px;
+    }
+}

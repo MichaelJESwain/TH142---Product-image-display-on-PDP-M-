@@ -1,0 +1,13 @@
+.exp-thumbnails-container {
+	padding-top: 4px !important;
+}
+
+.exp-thumbnails-container.svelte-tvafbu.svelte-tvafbu {
+	justify-content: center;
+}
+
+@media only screen and (max-width: 740px) {
+    .product-page__main-col_1T8JT {
+        margin-bottom: 18px;
+    }
+}
